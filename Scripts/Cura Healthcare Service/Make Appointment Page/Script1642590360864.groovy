@@ -31,7 +31,13 @@ WebUI.click(findTestObject('CURA Healthcare Service/Make Appointment Page/select
 
 WebUI.setText(findTestObject('CURA Healthcare Service/Make Appointment Page/textarea_Comment'), 'Test')
 
+WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot()
+
 WebUI.click(findTestObject('CURA Healthcare Service/Make Appointment Page/button_Book Appointment'))
 
 WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot()
 
