@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Bank</name>
+   <tag></tag>
+   <elementGuidId>c6a3cf75-24bb-4c3f-86ec-2c58fed0fee3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bl-dropdown__box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vm__payment-checkout']/div/div/div/fragment-loader/div/div/section/div/div/div[3]/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-dropdown__box</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+      -- Pilih --
+        </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vm__payment-checkout&quot;)/div[@class=&quot;bl-container pt-24 pb-24&quot;]/div[@class=&quot;bl-flex-container&quot;]/div[@class=&quot;bl-flex-item vp-checkout__sidebar vp-checkout__sidebar--left mr-24&quot;]/fragment-loader[@class=&quot;vp-checkout__adjust-payment qa-checkout__adjust-payment&quot;]/div[@class=&quot;tuku&quot;]/div[1]/section[1]/div[1]/div[@class=&quot;mb-20 bl-card bl-card--outlined&quot;]/div[3]/div[@class=&quot;bl-payment-category&quot;]/div[@class=&quot;bl-flex-item bl-payment-category__detail ph-20 pb-20&quot;]/div[1]/div[1]/div[@class=&quot;mb-12&quot;]/div[@class=&quot;bl-dropdown bl-payment-type__option bl-dropdown--active&quot;]/div[@class=&quot;bl-dropdown__box&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vm__payment-checkout']/div/div/div/fragment-loader/div/div/section/div/div/div[3]/div[2]/div/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran'])[1]/following::div[70]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Tujuan'])[1]/preceding::div[126]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/preceding::div[129]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

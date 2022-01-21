@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lanjutkan</name>
+   <tag></tag>
+   <elementGuidId>427bb1b6-c3fe-4d61-aade-40d648e3e7fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mr-8.bl-button.bl-button--outline.bl-button--medium</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vm__payment-checkout']/div/div/div/fragment-loader/div/div/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[2]/div/div[3]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-8 bl-button bl-button--outline bl-button--medium</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+          Lanjutkan
+         </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vm__payment-checkout&quot;)/div[@class=&quot;bl-container pt-24 pb-24&quot;]/div[@class=&quot;bl-flex-container&quot;]/div[@class=&quot;bl-flex-item vp-checkout__sidebar vp-checkout__sidebar--left mr-24&quot;]/fragment-loader[@class=&quot;vp-checkout__adjust-payment qa-checkout__adjust-payment&quot;]/div[@class=&quot;tuku&quot;]/div[1]/section[1]/div[1]/div[@class=&quot;mb-20 bl-card bl-card--outlined&quot;]/div[3]/div[@class=&quot;bl-payment-category&quot;]/div[@class=&quot;bl-flex-item bl-payment-category__detail ph-20 pb-20&quot;]/div[1]/div[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__footer&quot;]/div[@class=&quot;p-24&quot;]/button[@class=&quot;mr-8 bl-button bl-button--outline bl-button--medium&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vm__payment-checkout']/div/div/div/fragment-loader/div/div/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[2]/div/div[3]/div[2]/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BL22178N2DUXINV'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gunakan metode lain'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+   </webElementXpaths>
+</WebElementEntity>
