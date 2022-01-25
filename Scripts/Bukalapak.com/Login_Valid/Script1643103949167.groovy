@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Bukalapak.com/Page_Accounts/input_Nomor handphone 
 
 WebUI.click(findTestObject('Object Repository/Bukalapak.com/Page_Accounts/button_Lanjut'))
 
-WebUI.setEncryptedText(findTestObject('Bukalapak.com/Page_Accounts/input_Password'), 'Rr9F7ESSvyuhpBTnNF+aDA==')
+WebUI.setEncryptedText(findTestObject('Bukalapak.com/Page_Accounts/input_Password'), '')
 
 WebUI.click(findTestObject('Object Repository/Bukalapak.com/Page_Accounts/button_Login'))
 
