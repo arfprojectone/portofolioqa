@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Email_NULL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9055bb3f-2add-458f-b3c3-fe89a5d7de9a</testCaseGuid>
+</TestCaseEntity>
