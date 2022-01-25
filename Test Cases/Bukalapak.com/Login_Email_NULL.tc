@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login_Password_NULL</name>
+   <name>Login_Email_NULL</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>91af81ec-e3a1-4ca4-8042-52dea7910841</testCaseGuid>
+   <testCaseGuid>b8ed7045-5a78-499c-974f-30dafab698d6</testCaseGuid>
 </TestCaseEntity>

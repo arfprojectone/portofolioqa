@@ -10,35 +10,35 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>119621fb-5354-4c85-9fe5-2d7f5c5b11fd</testSuiteGuid>
+   <testSuiteGuid>d8b2f4ca-9918-4738-ae1f-5d34b3ffcfab</testSuiteGuid>
    <testCaseLink>
-      <guid>5f6b1574-9467-4676-8c4f-b43e5f82dc1c</guid>
+      <guid>3dbc406a-3ed3-4248-bdef-c2a27b8ca12f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Bukalapak.com/Login-Page/Login_Email_Password_Valid</testCaseId>
+      <testCaseId>Test Cases/Bukalapak.com/Login_Valid</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>0497fe6b-8990-4322-a373-fbba133c41c9</guid>
+      <guid>2875ba40-9a6c-4a72-ba7c-02c502319c30</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Bukalapak.com/Login-Page/Login_Email_Invalid</testCaseId>
+      <testCaseId>Test Cases/Bukalapak.com/Login_Email_Invalid</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>920d603b-3570-4a0c-b74f-db22ea9a9fdf</guid>
+      <guid>4665fecd-111a-472a-85e0-7db5436ae508</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Bukalapak.com/Login-Page/Login_Email_NULL</testCaseId>
+      <testCaseId>Test Cases/Bukalapak.com/Login_Email_NULL</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>326b6036-9b4c-46cb-8d87-5d09e3c0ab2c</guid>
+      <guid>ebc79d6e-a59a-4005-b256-1fec451b0223</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Bukalapak.com/Login-Page/Login_Password_Invalid</testCaseId>
+      <testCaseId>Test Cases/Bukalapak.com/Login_Password_Invalid</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>3cffeca0-a16d-42c5-8faf-fc27b3966210</guid>
+      <guid>7e87b4e9-9440-4a71-9e15-97a46687437a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Bukalapak.com/Login-Page/Login_Password_NULL</testCaseId>
+      <testCaseId>Test Cases/Bukalapak.com/Login_Password_NULL</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

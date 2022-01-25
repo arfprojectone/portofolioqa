@@ -25,17 +25,11 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Bukalapak.com/Menu_Login'))
 
-WebUI.setText(findTestObject('Bukalapak.com/Login-Page/input_Nomor handphone atau email'), 'projectqaone@gmail.com')
+WebUI.setText(findTestObject('Bukalapak.com/Page_Accounts/input_Nomor handphone atau email'), '')
 
-WebUI.click(findTestObject('Bukalapak.com/Login-Page/button_Lanjut'))
+WebUI.click(findTestObject('Bukalapak.com/Page_Accounts/button_Lanjut'))
 
-WebUI.setText(findTestObject('Bukalapak.com/Login-Page/input_Password'), '')
-
-WebUI.click(findTestObject('Bukalapak.com/Login-Page/button_Login'))
-
-WebUI.verifyElementText(findTestObject('Bukalapak.com/Login-Page/Login_Alert/p_Password wajib diisi, ya'), 'Password wajib diisi, ya.')
-
-WebUI.delay(2)
+WebUI.verifyElementText(findTestObject('Bukalapak.com/Notifikasi_Login/p_Form harus diisi dulu ya'), 'Form harus diisi dulu ya')
 
 WebUI.takeScreenshot()
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login_Email_NULL</name>
+   <name>Login_Valid</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>9055bb3f-2add-458f-b3c3-fe89a5d7de9a</testCaseGuid>
+   <testCaseGuid>8c7f3562-ffa4-43ff-9178-cbf2d65607fc</testCaseGuid>
 </TestCaseEntity>

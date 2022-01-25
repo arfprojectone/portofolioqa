@@ -3,16 +3,8 @@
    <description></description>
    <name>p_Password yang kamu masukkan salah. Silakan coba lagi</name>
    <tag></tag>
-   <elementGuidId>0b0dd0e2-d654-46c4-9a8d-50b8201ebd4f</elementGuidId>
+   <elementGuidId>da8ec7f1-289b-46ac-9995-85c56a3f0a85</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>p.bl-text.bl-text--caption.bl-text--error</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='password'])[1]/following::p[1]</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value>//p[(text() = '
@@ -20,6 +12,14 @@
       ' or . = '
         Password yang kamu masukkan salah. Silakan coba lagi.
       ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.bl-text.bl-text--caption.bl-text--error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='password'])[1]/following::p[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

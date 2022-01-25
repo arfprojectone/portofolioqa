@@ -25,18 +25,16 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Bukalapak.com/Menu_Login'))
 
-WebUI.setText(findTestObject('Bukalapak.com/Login-Page/input_Nomor handphone atau email'), 'projectqaone@gmail.com')
+WebUI.setText(findTestObject('Bukalapak.com/Page_Accounts/input_Nomor handphone atau email'), 'projectqaone@gmail.com')
 
-WebUI.click(findTestObject('Bukalapak.com/Login-Page/button_Lanjut'))
+WebUI.click(findTestObject('Object Repository/Bukalapak.com/Page_Accounts/button_Lanjut'))
 
-WebUI.setText(findTestObject('Bukalapak.com/Login-Page/input_Password'), '123')
+WebUI.setText(findTestObject('Bukalapak.com/Page_Accounts/input_Password'), '123')
 
-WebUI.click(findTestObject('Bukalapak.com/Login-Page/button_Login'))
+WebUI.click(findTestObject('Object Repository/Bukalapak.com/Page_Accounts/button_Login'))
 
-WebUI.verifyElementText(findTestObject('Bukalapak.com/Login-Page/Login_Alert/p_Password yang kamu masukkan salah. Silakan coba lagi'), 
+WebUI.verifyElementText(findTestObject('Bukalapak.com/Notifikasi_Login/p_Password yang kamu masukkan salah. Silakan coba lagi'), 
     'Password yang kamu masukkan salah. Silakan coba lagi.')
-
-WebUI.delay(2)
 
 WebUI.takeScreenshot()
 

@@ -3,7 +3,7 @@
    <description></description>
    <name>Menu_Login</name>
    <tag></tag>
-   <elementGuidId>3c62db9e-de76-42d6-940d-0fbe5d4ad87a</elementGuidId>
+   <elementGuidId>76ef41a8-5743-49c1-bf18-f55c84370d86</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
