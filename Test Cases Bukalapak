@@ -1,0 +1,11 @@
+username : projectqaone@gmail.com
+
+bukalapak.com
+
+*Login
+Test Case
++ Email and Password Valid 
+- Email Invalid
+- Email Null
+- Password Invalid
+- Password Null
