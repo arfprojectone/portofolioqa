@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TestSuiteBDDCucumberDemo</name>
+   <name>Login Test Case</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,17 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>1809c51a-5057-4ab8-8c46-417bd9c4d9e7</testSuiteGuid>
+   <testSuiteGuid>d9cd7e6a-169a-43ba-a7eb-e729976f7b4b</testSuiteGuid>
    <testCaseLink>
-      <guid>b035f999-7307-4683-b382-80af71ca6121</guid>
+      <guid>c570a7d9-5c2d-47f4-872b-e8ee11b70de4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/BDD Cucumber Demo/RunFeatureFile.Appointment</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2904963d-ba1a-411c-aa46-272baccd973b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/BDD Cucumber Demo/RunFeatureFile.Login</testCaseId>
+      <testCaseId>Test Cases/SeleniumWebDriver/Login Test Case - Java</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

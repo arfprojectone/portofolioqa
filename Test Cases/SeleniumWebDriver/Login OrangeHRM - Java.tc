@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>RunFeatureFile</name>
+   <name>Login OrangeHRM - Java</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cbda93cb-46a9-4dcc-86fd-5bb833405a03</testCaseGuid>
+   <testCaseGuid>4fe10496-43bf-4e4a-8d50-4f6e8b3cf931</testCaseGuid>
 </TestCaseEntity>
